@@ -31,4 +31,4 @@ This project is an interactive financial analytics dashboard developed using Pyt
 
 Aashlesha Vijay Sawane | 
 TE Computer Science & Design Engineering | 
-Alard College of Engineering & Management, Pune
+Alard College of Engineering & Management, Pune.
