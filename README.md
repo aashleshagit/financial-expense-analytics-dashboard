@@ -29,6 +29,6 @@ This project is an interactive financial analytics dashboard developed using Pyt
 
 ## Author
 
-Aashlesha Vijay Sawane
-TE Computer Science & Design Engineering
+Aashlesha Vijay Sawane | 
+TE Computer Science & Design Engineering | 
 Alard College of Engineering & Management, Pune
